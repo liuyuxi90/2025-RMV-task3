@@ -23,5 +23,6 @@ g = 497.23 px/s^2 \
 k = 0.065018 1/s 
 
 程序运行截图：
-<img width="1374" height="391" alt="Screenshot from 2025-09-29 10-39-40" src="https://github.com/user-attachments/assets/16923f9f-6f7e-40b1-8097-313bf9db1a6f" />
+<img width="1374" height="391" alt="Screenshot from 2025-09-29 10-39-40" src="https://github.com/user-attachments/assets/1d9a4d62-ea37-4449-8a32-f4615a5aea50" />
+
 
